@@ -1,6 +1,6 @@
 package dhinesh;
 
-public class if {
+public class IF {
 	public static void main(String args[]) {
 		int num=7;
 		if (num>0)
@@ -27,20 +27,6 @@ public class if {
 			System.out.println(r);
 			num=num/10;
 		}
-	}
-
-			
-		
-			
-			
-			
-			
-			
-			
-		}
-			
-	
-		
 	}
 
 }
